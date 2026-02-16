@@ -34,3 +34,5 @@ tiktoken
 
 wikipedia
 faiss-cpu
+
+youtube-transcript-api
