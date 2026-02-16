@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain_community
 langchain-experimental
+langchain_classic
 
 # OpenAI Integration
 langchain-openai
@@ -30,3 +31,6 @@ scikit-learn
 
 chromadb
 tiktoken
+
+wikipedia
+faiss-cpu
