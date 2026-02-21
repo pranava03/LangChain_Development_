@@ -36,3 +36,7 @@ wikipedia
 faiss-cpu
 
 youtube-transcript-api
+
+pydantic
+
+duckduckgo-search
